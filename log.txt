@@ -1,0 +1,5 @@
+2024-07-27 11:23:56 - entro al metodo crear_estudiante
+2024-07-27 11:24:52 - entro al metodo crear_estudiante1
+2024-07-27 11:24:55 - entro al metodo crear_estudiante
+2024-07-27 11:25:42 - entro al metodo crear_estudiante<dominio.dominio.Estudiante object at 0x000001D84E048350>
+2024-07-27 11:27:20 - entro al metodo crear_estudianteNone
